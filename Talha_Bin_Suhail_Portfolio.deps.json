@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Talha_Bin_Suhail_Portfolio/1.0.0": {
+        "runtime": {
+          "Talha_Bin_Suhail_Portfolio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Talha_Bin_Suhail_Portfolio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
